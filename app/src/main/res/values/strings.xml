@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="username">Email</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">You have not Account!</string>
+    <string name="sign">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Enter Your Name</string>
+    <string name="phone">Phone No</string>
+    <string name="rePass">Retype Password</string>
+    <string name="title_activity_home">Home</string>
+    <string name="userName">Ashutosh kumar</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Closer</string>
+    <string name="details">Post Details</string>
+    <string name="title">Enter Post Title</string>
+    <string name="description">Enter Post Description</string>
+    <string name="login">You Have already account</string>
+    <string name="address">Address</string>
+    <string name="Post">POST</string>
+    <string name="remember">Remember password</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
